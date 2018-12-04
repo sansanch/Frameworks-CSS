@@ -1,5 +1,7 @@
 .cabecera{
   color: white;
+  background-color: #DDC3D8;
+  opacity: 0.8;
 }
 .cuerpo{
   background: url(../IMG/fondo.jpg) no-repeat center;
